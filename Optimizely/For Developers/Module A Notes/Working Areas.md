@@ -1,3 +1,4 @@
+#Devs 
 ![[Pasted image 20250528072934.png]]
 They say that Dashboard has been removed in CMS 12, however I can still find a "Dashboard" view in the Editing interface.
 ![[Pasted image 20250528073131.png]]

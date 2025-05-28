@@ -9,7 +9,7 @@
 	1. [[Edit View]]
 	2. [[Admin View]]
 3. [[Authentication and Authorization]]
-	1. Access rights
+	1. [[Access Rights]]
 	2. Excercise A2 - Authentication and authorization
 	3. Excercise A6 - Resetting admin (optional)
 4. Editing Content
