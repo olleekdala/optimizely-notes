@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "c35d402371bffa9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "963720b7726bc217",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "722cbc528f2e30de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "332b28b497b53639",
+    "type": "split",
+    "children": [
+      {
+        "id": "f35670a48fbbc608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea44b49b493226b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9533d17e18633d3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f3ad56365c0f1218",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f874dd8d250bda69",
+    "type": "split",
+    "children": [
+      {
+        "id": "b80631665ac053f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b96a85bf56f6a23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bef0ad9e73b062a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Optimizely/Course Structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Course Structure"
+            }
+          },
+          {
+            "id": "30add4747d2508da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b996e766a528c7ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1e6649cddb8185d9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "722cbc528f2e30de",
+  "lastOpenFiles": [
+    "Optimizely/For Developers/Module A Notes/Authentication and Authorization.md",
+    "Optimizely/For Developers/Module A Notes/Installing and Updating.md",
+    "Optimizely/For Developers/Module A Notes/Module Contents.md",
+    "Optimizely/For Developers/Module A Notes/Admin View.md",
+    "Optimizely/For Developers/Module A Notes/Edit View.md",
+    "Optimizely/CMU Usage/Editing Interface/Editing Interface.md",
+    "Optimizely/For Developers/Module A Notes/Working Areas.md",
+    "Pasted image 20250528073213.png",
+    "Pasted image 20250528073131.png",
+    "Pasted image 20250528072934.png",
+    "Optimizely/For Developers/Module A Notes/Exercise A1 AlloyDemo Site.md",
+    "Optimizely/For Developers/Module A Notes/Project Template and CLI Tool.md",
+    "Optimizely/For Developers/Module A Notes/Breaking changes.md",
+    "Optimizely/For Developers/Module A Notes/Architecture.md",
+    "Optimizely/For Developers/Module A Notes/Addons and other services.md",
+    "Optimizely/Optimizely Course Materials.md",
+    "Optimizely/Resources.md",
+    "Optimizely/CMU Usage/CMU Usage Contents.md",
+    "Optimizely/CMU Usage/Editing Interface/Reports.md",
+    "Optimizely/CMU Usage/Editing Interface/Publishing.md",
+    "Optimizely/CMU Usage/Editing Interface/Audiences.md",
+    "Optimizely/For Developers/Getting Started.md",
+    "Optimizely/For Developers/Module A Notes/Understanding Optimizely CMS.md",
+    "Pasted image 20250527130036.png",
+    "Optimizely/CMU Usage/Editing Interface",
+    "Scheduled Jobs.md",
+    "Pasted image 20250527123010.png",
+    "Pasted image 20250527110530.png",
+    "Pasted image 20250527105333.png",
+    "Pasted image 20250527104142.png",
+    "Pasted image 20250527103605.png",
+    "Pasted image 20250527103503.png",
+    "optimizely-exam-guide.pdf",
+    "Optimizely/For Developers/Module A Notes",
+    "Optimizely/CMU Usage/Course Notes/Settings.md",
+    "Optimizely/CMU Usage/Course Notes/Scheduled Jobs.md",
+    "Optimizely/CMU Usage",
+    "Optimizely/For Developers",
+    "Optimizely/CMU Usage/Course Notes",
+    "Untitled",
+    "Optimizely",
+    "Welcome.md"
+  ]
+}
