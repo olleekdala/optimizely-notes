@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#Editor  ",
+      "query": "tag:#Editor",
       "color": {
         "a": 1,
         "rgb": 14406656
@@ -39,6 +39,6 @@
   "repelStrength": 18.0208333333333,
   "linkStrength": 1,
   "linkDistance": 231,
-  "scale": 0.23695858727044486,
+  "scale": 0.23695858727044533,
   "close": false
 }

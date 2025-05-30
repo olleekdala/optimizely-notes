@@ -13,15 +13,15 @@
 	2. Excercise A2 - Authentication and authorization
 	3. Excercise A6 - Resetting admin (optional)
 4. Editing Content
-	1. Content versions
-	2. Multi-user editing
-	3. Publishing Content
-	4. Managing assets
-	5. Rich text and images
-	6. Forms
-	7. Reusing content
+	1. [[Content Version]]
+	2. [[Multi-user Editing]]
+	3. [[Publishing Content]]
+	4. [[Managing Assets]]
+	5. [[Rich text and images]]
+	6. [[Forms]]
+	7. [[Reusing Content]]
 	8. Excercise A3 - Editing content (optional)
-5. Personalizing content using Visitor Groups (Audience)
+5. [[Personalizing content using Visitor Groups]] (Audience)
 6. Managing Content
 	1. Projects, content approvals, A/B Testing
 	2. Excercise A4 - Managing Content
