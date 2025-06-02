@@ -1,4 +1,4 @@
-#Devs #Editor
+#Devs #Editor #ModuleA 
 For the demo site, install `EPiServer.Personalization.MaxMindGeolocation`
 Next copy the GeoLite2 folder from the exercise files in Module A, to the App_Data folder in the demo project.
 

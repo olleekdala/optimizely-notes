@@ -1,4 +1,4 @@
-#Devs 
+#Devs #ModuleA 
 This module is covered in the notes section for [[Editing Interface]] 
 It appears the course material available from the "Development Fundamentals" course is slightly less updated than for the "CMU Usage".
 

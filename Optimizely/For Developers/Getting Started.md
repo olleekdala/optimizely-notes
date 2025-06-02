@@ -12,5 +12,10 @@ This is a Commerce starter site, with multiple projects.
 
 ![[Pasted image 20250527092441.png]]
 
-[[Module Contents]]
 [[Excercise Book]]
+
+**Module A**
+[[Module A Contents]]
+**Module B**
+[[Module B Contents]]
+

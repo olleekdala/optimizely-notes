@@ -1,4 +1,4 @@
-#Devs 
+#Devs #ModuleA 
 ## Templates and Demo project
 
 To find installed templates for Optimizely:

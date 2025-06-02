@@ -1,4 +1,5 @@
-#Devs 
+#Devs #ModuleA
+
 There are six permissions a role can have
 - Read
 - Create
