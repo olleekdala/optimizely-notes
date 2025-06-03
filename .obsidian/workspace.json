@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimizely/For Developers/Module B/Properties.md",
+                "file": "Optimizely/For Developers/Module B/Choosing a property type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Properties"
+              "title": "Choosing a property type"
             }
           }
         ]
@@ -181,9 +181,14 @@
   },
   "active": "f9eb3ae949b07875",
   "lastOpenFiles": [
-    "Pasted image 20250602145115.png",
+    "Pasted image 20250603074153.png",
+    "Pasted image 20250603073406.png",
+    "Pasted image 20250603072155.png",
     "Optimizely/For Developers/Module B/Module B Contents.md",
+    "Optimizely/For Developers/Module B/Choosing a property type.md",
+    "Optimizely/For Developers/Module B/Settings and attributes.md",
     "Optimizely/For Developers/Module B/Properties.md",
+    "Pasted image 20250602145115.png",
     "Optimizely/For Developers/Module B/Content Type Attributes.md",
     "Optimizely/For Developers/Module B/Defining Media Types and Templates.md",
     "Optimizely/For Developers/Module B/Understanding folders.md",
@@ -207,17 +212,12 @@
     "Optimizely/For Developers/Module A/Architecture.md",
     "Optimizely/For Developers/Module A/Addons and other services.md",
     "Optimizely/For Developers/Module A/Access Rights.md",
-    "Optimizely/For Developers/Module A/Editing Content/Rich text and images.md",
-    "Optimizely/For Developers/Module A/Editing Content/Reusing Content.md",
     "Optimizely/For Developers/Module B",
     "Pasted image 20250530123729.png",
     "Pasted image 20250530123409.png",
     "Pasted image 20250527110530.png",
     "Pasted image 20250530122843.png",
     "Pasted image 20250530122814.png",
-    "Pasted image 20250530114544.png",
-    "Pasted image 20250530114441.png",
-    "Pasted image 20250530114407.png",
     "Optimizely/For Developers/Module A/Editing Content",
     "cmsdevfun-exercisebook-cms12.pdf",
     "optimizely-exam-guide.pdf",

@@ -10,8 +10,8 @@
 	3. Exercise B2
 5. [[Content Type Attributes]]
 6. [[Properties]]
-	1. Settings and attributes
-	2. Choosing a property type
+	1. [[Settings and attributes]]
+	2. [[Choosing a property type]]
 	3. Validating properties
 7. Page template layouts
 8. Dependency Injection
