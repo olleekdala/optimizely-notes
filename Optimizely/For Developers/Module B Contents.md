@@ -16,12 +16,11 @@
 	4. [[Changing property data types]]
 7. [[Page template layouts]]
 8. [[Dependency Injection]]
-9. Design Patterns and Conventions 
+9. [[Design Patterns and Conventions]]
 	1. Exercise B3
-10. Customizing the editing experience
-	1. Setting default values
-	2. Available content types
-	3. Implementing selection factories
-	4. Implementing lists
-	5. Exercise B4
-11. 
+10.[[ Customizing the editing experience]]
+	2. [[Setting default values]]
+	3. [[Available content types]]
+	4. [[Implementing selection factories]]
+	5. [[Implementing lists]]
+	6. Exercise B4
