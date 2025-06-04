@@ -11,7 +11,7 @@
       "query": "tag:#CourseMat  ",
       "color": {
         "a": 1,
-        "rgb": 8322684
+        "rgb": 16678012
       }
     },
     {
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 11104766
       }
+    },
+    {
+      "query": "tag:#Devs",
+      "color": {
+        "a": 1,
+        "rgb": 14077020
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.1690167459576876,
+  "scale": 0.12055549766390955,
   "close": false
 }

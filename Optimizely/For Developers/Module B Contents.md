@@ -12,10 +12,11 @@
 6. [[Properties]]
 	1. [[Settings and attributes]]
 	2. [[Choosing a property type]]
-	3. Validating properties
-7. Page template layouts
-8. Dependency Injection
-9. Design Patterns and Conventions
+	3. [[Validating Content]]
+	4. [[Changing property data types]]
+7. [[Page template layouts]]
+8. [[Dependency Injection]]
+9. Design Patterns and Conventions 
 	1. Exercise B3
 10. Customizing the editing experience
 	1. Setting default values
