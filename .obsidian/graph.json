@@ -36,10 +36,10 @@
       }
     },
     {
-      "query": "tag:#Devs",
+      "query": "tag:#ModuleC",
       "color": {
         "a": 1,
-        "rgb": 14077020
+        "rgb": 6073814
       }
     }
   ],
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1.60572916666667,
   "lineSizeMultiplier": 1.61848958333333,
   "collapse-forces": false,
-  "centerStrength": 0.377604166666667,
+  "centerStrength": 0.3203125,
   "repelStrength": 13.3854166666667,
   "linkStrength": 0.455729166666667,
   "linkDistance": 30,
-  "scale": 0.1690167459576886,
+  "scale": 0.4657553837796922,
   "close": false
 }
