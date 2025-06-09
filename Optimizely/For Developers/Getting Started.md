@@ -14,9 +14,7 @@ This is a Commerce starter site, with multiple projects.
 
 [[Excercise Book]]
 
-**Module A**
 [[Module A Contents]]
-**Module B**
 [[Module B Contents]]
-**Module C**
 [[Module C Contents]]
+[[Module E Contents]]

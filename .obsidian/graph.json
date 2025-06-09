@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 6073814
       }
+    },
+    {
+      "query": "tag:#ModuleE",
+      "color": {
+        "a": 1,
+        "rgb": 16773995
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 13.3854166666667,
   "linkStrength": 0.455729166666667,
   "linkDistance": 30,
-  "scale": 0.4657553837796922,
+  "scale": 0.22920135941749367,
   "close": false
 }

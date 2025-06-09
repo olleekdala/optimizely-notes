@@ -36,4 +36,4 @@ Roles can be a comma separated string with multiple roles.
 Then under `appsettings.json` you map this role to a **Virtual Role**.
 
 This sets the access level on the News Page **Content Type** to NewsEditors. 
-***This is covered in Exercise A2, starting from page 29 in the [[Excercise Book]]
+***This is covered in Exercise A2, starting from page 29 the exercise book***
