@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16773995
       }
+    },
+    {
+      "query": "tag:#ModuleF",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
     }
   ],
   "collapse-display": false,

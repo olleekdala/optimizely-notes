@@ -18,3 +18,4 @@ This is a Commerce starter site, with multiple projects.
 [[Module B Contents]]
 [[Module C Contents]]
 [[Module E Contents]]
+[[Module F Contents]]
