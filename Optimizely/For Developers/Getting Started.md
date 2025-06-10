@@ -11,6 +11,10 @@ This starter site includes a single project with add-ons pre-installed for the C
 [Github](https://github.com/episerver/Foundation/tree/main)
 This is a Commerce starter site, with multiple projects.
 
+### Exam guide
+**[CMS 12 Developer Reference](https://docs.developers.optimizely.com/content-management-system/docs)**
+This reference covers almost everything from this course and its modules, including extras.
+
 ![[Pasted image 20250527092441.png]]
 
 [[Excercise Book]]
