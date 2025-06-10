@@ -1,4 +1,5 @@
 #Devs 
+
 The course will walk through a pre-built demo site, and end with building one from scratch.
 The sites are based on the .NET MVC.
 
@@ -19,3 +20,8 @@ This is a Commerce starter site, with multiple projects.
 [[Module C Contents]]
 [[Module E Contents]]
 [[Module F Contents]]
+
+#### Before starting the exam, look at the [[Exam Guide]] and identify sections that you may have missed or need an update on. Check the [[Certification Reference]] for these sections to complete your understanding.
+
+Some sections not covered in the modules:
+[[Content Providers]]
