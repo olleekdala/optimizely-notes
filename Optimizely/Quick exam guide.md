@@ -9,4 +9,10 @@ While the main course will give you an introduction to the major concepts involv
 The major areas lacking in the course is about **Deployment**. While there is a section in module G that covers some details about deployment, almost none of it was relevant for the questions I had on the exam.
 A lot of questions were about details of the DXP (Digital Experience Platform).
 
+To mitigate missing information, a way of working could be to open the related page in the developer documentation to the module you're currently listening to and reading it either before or after the video material, to get more complete knowledge of that section.
+
 On the exam you have about 1.2 minutes per question, you can spend a minute to google a question. I had success googling something specific in the question and prefixing the search with "Optimizely", and finding results leading to the docs sites or forum posts.
+
+#### Exercises
+While it was useful to do the exercises to fill out the AlloyTraining website, and getting a feel for the workflow of adding new pages and customization, very little of the knowledge from the exercises came up in the exam. Perhaps my pool of questions was unlucky.
+
